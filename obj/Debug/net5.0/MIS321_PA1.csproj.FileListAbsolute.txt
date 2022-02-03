@@ -1,0 +1,16 @@
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\MIS321_PA1.exe
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\MIS321_PA1.deps.json
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\MIS321_PA1.runtimeconfig.json
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\MIS321_PA1.runtimeconfig.dev.json
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\MIS321_PA1.dll
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\ref\MIS321_PA1.dll
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\bin\Debug\net5.0\MIS321_PA1.pdb
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.csproj.AssemblyReference.cache
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.AssemblyInfoInputs.cache
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.AssemblyInfo.cs
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.csproj.CoreCompileInputs.cache
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.dll
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\ref\MIS321_PA1.dll
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.pdb
+C:\Users\bufor\OneDrive\Desktop\MIS 321\PAs\PA1\MIS321_PA1\obj\Debug\net5.0\MIS321_PA1.genruntimeconfig.cache

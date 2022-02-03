@@ -1,0 +1,10 @@
+166#Hello#2/2/2022 11:59:28 AM#True
+912#Hi#2/2/2022 11:59:32 AM#True
+555#Greetings#2/2/2022 12:00:46 PM#True
+609#Bye#2/2/2022 12:01:04 PM#True
+348#Goodbye#2/2/2022 12:01:10 PM#True
+315#Farewell#2/2/2022 12:05:58 PM#True
+222#See ya#2/2/2022 12:35:30 PM#True
+86#hELLO#2/2/2022 12:55:45 PM#True
+12#Good Day#2/3/2022 9:33:24 AM#True
+2#Thursday#2/3/2022 10:40:34 AM#True
